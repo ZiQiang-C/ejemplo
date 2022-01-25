@@ -14,6 +14,7 @@ public class barco {
 		boolean  disparoCorrecto=false;
 		char resultadoDisparo='A';
 		
+		//wdasdqweqeq
 		//Declaración de arrays
 		char [][] mapaUsuario = new char[TAMANIO][TAMANIO];
 		char [][] mapaOrdenador = new char[TAMANIO][TAMANIO];
